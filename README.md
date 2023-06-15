@@ -2,7 +2,7 @@
 This repository contains the source code and related files for a Library Management System website. The system is designed to facilitate the management and organization of a library's resources, including books and borrowing activities.
 
 Technologies Used:
-Front-end: HTML, CSS.
+Front-end: HTML, CSS and JS.
 Frameworks and Libraries: TailwindCSS
 
 Contributing:
