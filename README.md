@@ -3,6 +3,7 @@ This repository contains the source code and related files for a Library Managem
 
 Technologies Used:
 Front-end: HTML, CSS and JS.
+Back-end: NodeJS
 Frameworks and Libraries: TailwindCSS
 
 Contributing:
